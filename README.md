@@ -1,9 +1,9 @@
-CHaos
-monitoring
-app logs
-dashboarding 
-convert json data into dashboard 
-alerting
+- Chaos
+- monitoring
+- app logs
+- dashboarding 
+- convert json data into dashboard 
+
 alerting based automation 
 decoupling
 fault injection 
@@ -46,7 +46,7 @@ Availabilty
   RTO (recovery time objective)is the targeted duration of time that a service must be restored after a failore 
   MTTR is also the same
  
-SLI Service Level Indicator - meaningful measurement of service - its a measurement for SLO  
+SLI Service Level Indicator - meaningful measurement of service - it's a measurement for SLO  
    Latency  
    availability 
    error rate 
