@@ -48,10 +48,10 @@ Availabilty
  
 # SLI Service Level Indicator - meaningful measurement of service - it's a measurement for SLO  
   - Latency  
-   -availability 
-   -error rate 
-   -throughput 
-   -response time 
+   - availability 
+   - error rate 
+   - throughput 
+   - response time 
 # SLO Service Level Objective
  - collection of SLO 
 # SLA Service Level Agreement
