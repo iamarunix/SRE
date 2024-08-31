@@ -1,3 +1,19 @@
+- support n automation
+- coordination with sre 
+- Strong knowledge on Paas architecture 
+- Inbound outbound call 
+- API management 
+- Scripts implemented 
+- Deployment and maintenance 
+
+- Sre 3s
+- Chaos 
+
+
+
+
+
+
 - Chaos
 - monitoring
 - app logs
