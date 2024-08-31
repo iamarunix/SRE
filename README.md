@@ -21,7 +21,7 @@
 - convert json data into dashboard 
 
 alerting based automation 
-decoupling
+- decoupling
 fault injection 
 circuit breaking 
 realibilty 
