@@ -57,7 +57,8 @@ SRE principles
   - Monitoring distributed systems
   - Automation
   - Release engineering (both application and infra deployments shd be in code level) 
-  - Simplicity 
+  - Simplicity
+  - technical glitch
 
 
 Availabilty
