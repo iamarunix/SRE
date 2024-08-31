@@ -46,12 +46,14 @@ Availabilty
   RTO (recovery time objective)is the targeted duration of time that a service must be restored after a failore 
   MTTR is also the same
  
-SLI Service Level Indicator - meaningful measurement of service - it's a measurement for SLO  
-   Latency  
-   availability 
-   error rate 
-   throughput 
-response time 
-SLO Service Level Objective
- collection of SLO 
-SLA Service Level Agreement
+# SLI Service Level Indicator - meaningful measurement of service - it's a measurement for SLO  
+  - Latency  
+   -availability 
+   -error rate 
+   -throughput 
+   -response time 
+# SLO Service Level Objective
+ - collection of SLO 
+# SLA Service Level Agreement
+
+
