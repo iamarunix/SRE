@@ -1,3 +1,7 @@
+## what activities are conducted in PT
+## why autoscaling is not tested in PT
+ 
+
 - support n automation
 - coordination with sre 
 - Strong knowledge on Paas architecture 
@@ -71,5 +75,7 @@ Availabilty
 # SLO Service Level Objective
  - collection of SLO 
 # SLA Service Level Agreement
+
+
 
 
