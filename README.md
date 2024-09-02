@@ -11,8 +11,11 @@
 - Deployment and maintenance 
 
 - Sre 3s
-- Chaos 
-
+## Chaos Engineering 
+ - It is a disciplined approach to identify failures before they become outages.
+ - It is the intentional act of injecting failure into production codebases and system configurations to measure how resilient they are to attacks and faults2
+ - It improves resilient chaos engineering.
+ - we need to sit with respective TEAMS to understand different failures and its outages. 
 
 
 
